@@ -1,0 +1,3 @@
+echo Running Shell
+echo Working Directory:
+pwd
