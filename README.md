@@ -1,5 +1,5 @@
 # shelly
-A custom unix shell project
+Shelly is a custom shell project built for an Operating Systems class. It is a Unix based and implements forks, linked lists, and dynamic memory allocation.
 
 
 **Instructions**
@@ -10,7 +10,7 @@ Run the output file
 
 Enter a bash command when prompted with `?:`
 
-Exit with 'exit'
+Exit with `exit`
 
 **Features**
 
@@ -18,11 +18,11 @@ Exit with 'exit'
 
 - History of last 20 commands
 
-- Call last command with '!!'
+- Call last command with `!!`
 
-- Call specific command from history with '!COMMAND_NUM'
+- Call specific command from history with `!COMMAND_NUM`
 
-- Piping, and execution of multiple commands with ';'
+- Piping, and execution of multiple commands with `;`
 
 **Info**
 
